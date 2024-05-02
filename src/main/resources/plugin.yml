@@ -1,0 +1,9 @@
+name: Crowbar
+version: '${project.version}'
+main: it.mythicmc.crowbar.Crowbar
+author: giubboxdzn
+depend: [ saber-faction ]
+commands:
+  crowbar:
+
+
